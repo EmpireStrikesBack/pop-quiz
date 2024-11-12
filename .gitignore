@@ -1,0 +1,20 @@
+# Ignore all executable files (Linux/Mac)
+*.out
+*.exe
+*.dll
+*.so
+*.htaccess
+*.config
+
+# Ignore compiled object files
+*.o
+*.obj
+
+# Ignore compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Ignore any other build artifacts
+/build/
+/dist/
